@@ -293,4 +293,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for a sustainable future**
 
-Built by `Fortune` with Cursor-assisted development.
+Built by `Fortune`
